@@ -1,0 +1,44 @@
+Prac 8 Pair Programming
+
+On 29/05/2014 the practical conducted during the assigned practical session was to create a program
+ that could handle the input of different time and dates and return them as seconds passed since 
+1970 UTC. This was to be done using Pair Programming, pairing with one of the US students visiting the uni.
+
+The student I was(I may have forgotten his name) with was a Mechanicl Engineer and had some programming 
+experience prior, based on this we decided to create the program in C as he was familar with this language.
+Based on the lecture earlier in the day we had learnt about the roles as Driver and Navigator.
+
+So we started up our program used a basic input reader from the command line to get input and attempt to 
+interpret it into a suitable form. Once in the desired form calculate the amount of seconds for minutes,
+hours, days, months and years from 1970 UTC.
+
+We had limited sucess with this as we had issues reading from the command line, which we weren't 
+sure about as the code seemed correct and endless googling didn't help to solve the mystery.
+The functionality of the program was limited and we were only going to be able to get the first few 
+lines of input to work.
+
+So ultimately the program itself was a failure but that wasn't what the prac was about.
+
+Onto the experience with Pair Programming.
+The benefits were that one of us could help the other put if we made a mistake, the navigator assisting
+the driver. The navigator was responsible for the oversight of the program, the driver was responsible
+for writing the code, getting the program to work.
+I don't think we were faster, not on the amount of time we had. If this was a task that was allowed a
+day or similar, I think it would have helped as a greater purpose and direction would be decided before
+producing the program.
+The code was generally more correct as explained above the navigator could assist the driver where
+necessary.
+The main difficulty with the pair programming was the roles weren't followed as planned, mainly due
+to a lack of experienc. So there was a lot more collaboratio as opposed to one person telling the other
+what should be done and the other completing the desired tasks. Changing roles every 15 mins or so isn't
+exactly ideal either unless both persons are at similar level of programming skill. It is also much easier
+to be the navigator than driver unless you are proficient at technical coding, personally I am not the greatest
+coder but I know what I want to achieve and have an idea of how to do it just not programming skils required.
+Next time I would try to define the roles better and have a better idea of how to go about the task.
+This time the challenge was quite broad and hence only a small amount was attempted.
+I would use peer programming in the future, but only when I'm at a level of programming skill that allows
+for such to be used. You can argue it can be used at a lower level but ideally pair programming is a more
+professional way of going about things as such higher skills are required to be effective. I would similarly
+use the difference between amateur and professional football of any kind, amateurs don't have the greatest skill
+ nor great direction in how they're going to play, whereas professionals have good skills and to beat the opposition they
+ have to know exactly what is required and how do it.
